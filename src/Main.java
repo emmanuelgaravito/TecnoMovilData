@@ -1,3 +1,6 @@
+import model.RegistroValidador;
+import service.TecnoMovilService;
+
 import java.time.LocalDateTime;
 import java.util.List;
 

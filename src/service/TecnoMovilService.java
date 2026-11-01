@@ -1,3 +1,7 @@
+package service;
+
+import model.RegistroValidador;
+
 import java.time.Duration;
 import java.util.Comparator;
 import java.util.List;
